@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e5ac5bfa01ad4d4eb18e5c83db75d428/artifacts
+end_time: 1722621489769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5ac5bfa01ad4d4eb18e5c83db75d428
+run_name: suave-pig-941
+run_uuid: e5ac5bfa01ad4d4eb18e5c83db75d428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621487074
+status: 4
+tags: []
+user_id: chrisfinn

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f589de782fb4412f80441b435570aa68/artifacts
+end_time: 1722621008788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f589de782fb4412f80441b435570aa68
+run_name: unique-sloth-780
+run_uuid: f589de782fb4412f80441b435570aa68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621007410
+status: 4
+tags: []
+user_id: chrisfinn

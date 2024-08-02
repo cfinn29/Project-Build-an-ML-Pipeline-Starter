@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c596bda39a1f48188295299d8aee1e02/artifacts
+end_time: 1722617468729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c596bda39a1f48188295299d8aee1e02
+run_name: delicate-grouse-316
+run_uuid: c596bda39a1f48188295299d8aee1e02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617466310
+status: 4
+tags: []
+user_id: chrisfinn

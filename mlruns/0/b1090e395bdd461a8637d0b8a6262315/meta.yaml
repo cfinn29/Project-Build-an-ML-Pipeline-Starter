@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b1090e395bdd461a8637d0b8a6262315/artifacts
+end_time: 1722622078554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1090e395bdd461a8637d0b8a6262315
+run_name: able-mare-921
+run_uuid: b1090e395bdd461a8637d0b8a6262315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621985096
+status: 3
+tags: []
+user_id: chrisfinn

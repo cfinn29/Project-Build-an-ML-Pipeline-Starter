@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4e6fbbb866a411680d96cadabf8e39d/artifacts
+end_time: 1722618428982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4e6fbbb866a411680d96cadabf8e39d
+run_name: serious-newt-42
+run_uuid: d4e6fbbb866a411680d96cadabf8e39d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618345659
+status: 3
+tags: []
+user_id: chrisfinn

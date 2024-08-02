@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1fe985cbb40f4cfe92c09a1e5a36ff22/artifacts
+end_time: 1722621008961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fe985cbb40f4cfe92c09a1e5a36ff22
+run_name: receptive-elk-967
+run_uuid: 1fe985cbb40f4cfe92c09a1e5a36ff22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621004839
+status: 4
+tags: []
+user_id: chrisfinn

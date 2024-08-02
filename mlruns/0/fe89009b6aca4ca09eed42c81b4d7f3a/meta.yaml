@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fe89009b6aca4ca09eed42c81b4d7f3a/artifacts
+end_time: 1722626976809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe89009b6aca4ca09eed42c81b4d7f3a
+run_name: righteous-lamb-123
+run_uuid: fe89009b6aca4ca09eed42c81b4d7f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722626907883
+status: 3
+tags: []
+user_id: chrisfinn

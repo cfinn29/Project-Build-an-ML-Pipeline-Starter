@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1266632d61f74a6494fb6fe858c23189/artifacts
+end_time: 1722616482994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1266632d61f74a6494fb6fe858c23189
+run_name: awesome-stag-825
+run_uuid: 1266632d61f74a6494fb6fe858c23189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722616441259
+status: 3
+tags: []
+user_id: chrisfinn

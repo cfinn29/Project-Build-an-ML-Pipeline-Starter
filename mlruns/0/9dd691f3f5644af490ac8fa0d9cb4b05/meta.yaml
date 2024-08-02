@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9dd691f3f5644af490ac8fa0d9cb4b05/artifacts
+end_time: 1722617750107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dd691f3f5644af490ac8fa0d9cb4b05
+run_name: polite-vole-454
+run_uuid: 9dd691f3f5644af490ac8fa0d9cb4b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617738608
+status: 4
+tags: []
+user_id: chrisfinn

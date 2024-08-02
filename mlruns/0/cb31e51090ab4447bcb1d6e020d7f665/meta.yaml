@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cb31e51090ab4447bcb1d6e020d7f665/artifacts
+end_time: 1722622192236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb31e51090ab4447bcb1d6e020d7f665
+run_name: peaceful-turtle-149
+run_uuid: cb31e51090ab4447bcb1d6e020d7f665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622148154
+status: 3
+tags: []
+user_id: chrisfinn

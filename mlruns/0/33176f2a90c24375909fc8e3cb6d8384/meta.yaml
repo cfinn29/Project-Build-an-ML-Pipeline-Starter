@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/33176f2a90c24375909fc8e3cb6d8384/artifacts
+end_time: 1722620848061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33176f2a90c24375909fc8e3cb6d8384
+run_name: able-shrimp-403
+run_uuid: 33176f2a90c24375909fc8e3cb6d8384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620845381
+status: 4
+tags: []
+user_id: chrisfinn

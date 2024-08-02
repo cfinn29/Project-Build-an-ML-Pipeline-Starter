@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f850a30a0b6f4b1992870e5cb3e4047d/artifacts
+end_time: 1722616483097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f850a30a0b6f4b1992870e5cb3e4047d
+run_name: unequaled-tern-81
+run_uuid: f850a30a0b6f4b1992870e5cb3e4047d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722616438418
+status: 3
+tags: []
+user_id: chrisfinn

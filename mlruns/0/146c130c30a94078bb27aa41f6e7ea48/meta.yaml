@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/146c130c30a94078bb27aa41f6e7ea48/artifacts
+end_time: 1722620388490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 146c130c30a94078bb27aa41f6e7ea48
+run_name: mercurial-koi-274
+run_uuid: 146c130c30a94078bb27aa41f6e7ea48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722620385781
+status: 4
+tags: []
+user_id: chrisfinn

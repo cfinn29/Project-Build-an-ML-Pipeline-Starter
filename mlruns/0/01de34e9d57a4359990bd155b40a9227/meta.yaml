@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/01de34e9d57a4359990bd155b40a9227/artifacts
+end_time: 1722622272357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01de34e9d57a4359990bd155b40a9227
+run_name: clumsy-lamb-449
+run_uuid: 01de34e9d57a4359990bd155b40a9227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722622192334
+status: 3
+tags: []
+user_id: chrisfinn

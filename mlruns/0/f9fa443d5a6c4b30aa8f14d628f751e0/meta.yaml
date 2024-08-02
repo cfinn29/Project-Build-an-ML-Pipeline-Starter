@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f9fa443d5a6c4b30aa8f14d628f751e0/artifacts
+end_time: 1722626976694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9fa443d5a6c4b30aa8f14d628f751e0
+run_name: bouncy-bat-25
+run_uuid: f9fa443d5a6c4b30aa8f14d628f751e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722626912681
+status: 3
+tags: []
+user_id: chrisfinn

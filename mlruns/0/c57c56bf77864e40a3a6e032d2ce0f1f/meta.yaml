@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c57c56bf77864e40a3a6e032d2ce0f1f/artifacts
+end_time: 1722622272486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c57c56bf77864e40a3a6e032d2ce0f1f
+run_name: dapper-squirrel-876
+run_uuid: c57c56bf77864e40a3a6e032d2ce0f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722621982613
+status: 3
+tags: []
+user_id: chrisfinn

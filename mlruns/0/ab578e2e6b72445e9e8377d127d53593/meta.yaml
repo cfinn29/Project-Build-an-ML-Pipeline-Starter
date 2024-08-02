@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab578e2e6b72445e9e8377d127d53593/artifacts
+end_time: 1722617749940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab578e2e6b72445e9e8377d127d53593
+run_name: gaudy-rook-446
+run_uuid: ab578e2e6b72445e9e8377d127d53593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617740894
+status: 4
+tags: []
+user_id: chrisfinn

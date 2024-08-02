@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b882d48d558f4adba2124a367f363e4b/artifacts
+end_time: 1722618429097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b882d48d558f4adba2124a367f363e4b
+run_name: respected-wren-451
+run_uuid: b882d48d558f4adba2124a367f363e4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722618341777
+status: 3
+tags: []
+user_id: chrisfinn

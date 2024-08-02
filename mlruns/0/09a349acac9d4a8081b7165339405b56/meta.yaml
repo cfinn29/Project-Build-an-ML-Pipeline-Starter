@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/09a349acac9d4a8081b7165339405b56/artifacts
+end_time: 1722617556615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09a349acac9d4a8081b7165339405b56
+run_name: traveling-hen-596
+run_uuid: 09a349acac9d4a8081b7165339405b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722617503290
+status: 4
+tags: []
+user_id: chrisfinn
