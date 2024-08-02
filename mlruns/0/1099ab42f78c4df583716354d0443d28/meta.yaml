@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1099ab42f78c4df583716354d0443d28/artifacts
+end_time: 1722628352009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1099ab42f78c4df583716354d0443d28
+run_name: useful-moose-488
+run_uuid: 1099ab42f78c4df583716354d0443d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722628339178
+status: 3
+tags: []
+user_id: chrisfinn

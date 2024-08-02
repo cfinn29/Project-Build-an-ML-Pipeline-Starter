@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7a421addcdae4a49aad274a1c57021ef/artifacts
+end_time: 1722628361473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a421addcdae4a49aad274a1c57021ef
+run_name: able-stork-663
+run_uuid: 7a421addcdae4a49aad274a1c57021ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722628321955
+status: 4
+tags: []
+user_id: chrisfinn

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chrisfinn/Project-Build-an-ML-Pipeline-Starter/mlruns/0/15286f017b5747d496b65d9817d973b4/artifacts
+end_time: 1722628339156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15286f017b5747d496b65d9817d973b4
+run_name: serious-calf-941
+run_uuid: 15286f017b5747d496b65d9817d973b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722628326592
+status: 3
+tags: []
+user_id: chrisfinn
